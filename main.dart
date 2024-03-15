@@ -9,6 +9,7 @@ void main() {
   displayFruitDetails(fruits);
 
   applyPriceDiscount(fruits, 10.0);
+  
   print('Fruit Details After Applying 10% Discount:');
   displayFruitDetails(fruits);
 }
